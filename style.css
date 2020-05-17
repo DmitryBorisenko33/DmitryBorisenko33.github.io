@@ -12,6 +12,7 @@ background-color: rgb(255, 255, 255);
 
 #content {
 height: 300px;
+text-align: center;
 background-color: rgb(255, 255, 255);
 border: 1px solid rgb(255, 255, 255);
 font-size: 12pt;	
