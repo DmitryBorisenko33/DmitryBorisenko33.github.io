@@ -7,15 +7,14 @@ body {
 height: 200px;
 text-align: center;
 font-size: 24pt;
-background-color: rgb(255, 255, 255);	
+background-color: rgba(206, 219, 224, 0.89);	
 }
 
 #content {
 height: 300px;
 text-align: center;
-background-color: rgb(255, 255, 255);
-border: 1px solid rgb(255, 255, 255);
 font-size: 12pt;	
+background-color: rgba(206, 219, 224, 0.349);
 }
 
 #content p {
@@ -26,4 +25,5 @@ margin: 20px;
 height: 200px;
 text-align: center;
 font-size: 14pt;
+background-color: rgb(206, 219, 224, 0.89);
 }
