@@ -13,7 +13,7 @@ height: 200px;
 text-align: center;
 font-size: 24pt;
 vertical-align: middle;
-background-color:hsla(50, 33%, 25%, .75);	
+background-color:hsl(50, 33%, 25%);	
 }
 
 #content {
@@ -21,7 +21,7 @@ height: 400px;
 text-align: center;
 font-size: 12pt;
 vertical-align: middle;	
-background-color: hsl(50, 33%, 25%);;
+background-color: hsla(50, 33%, 25%, .75);
 }
 
 #footer {
@@ -29,5 +29,5 @@ height: 200px;
 text-align: center;
 font-size: 14pt;
 vertical-align: middle;
-background-color: hsla(50, 33%, 25%, .75);
+background-color: hsl(50, 33%, 25%);
 }
