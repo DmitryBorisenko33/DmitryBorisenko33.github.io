@@ -4,22 +4,25 @@ body {
 }
 
 #header {
-height: 100px;
+height: 200px;
 text-align: center;
 font-size: 24pt;
+vertical-align: middle;
 background-color: rgba(206, 219, 224, 0.89);	
 }
 
 #content {
 height: 400px;
 text-align: center;
-font-size: 12pt;	
+font-size: 12pt;
+vertical-align: middle;	
 background-color: rgba(206, 219, 224, 0.349);
 }
 
 #footer {
-height: 100px;
+height: 200px;
 text-align: center;
 font-size: 14pt;
+vertical-align: middle;
 background-color: rgb(206, 219, 224, 0.89);
 }
