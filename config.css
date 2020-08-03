@@ -4,26 +4,10 @@
     padding: 0;
     }
     
-    #header {
-    height: 200px;
-    text-align: center;
-    font-size: 24pt;
-    vertical-align: middle;
-    background-color:hsl(0, 0%, 100%);	
-    }
-    
     #content {
-    height: 400px;
+    height: 100%;
     text-align: center;
-    font-size: 12pt;
+    font-size: 100%;
     vertical-align: middle;	
-    background-color: rgba(255, 255, 255, 0.75);
-    }
-    
-    #footer {
-    height: 200px;
-    text-align: center;
-    font-size: 14pt;
-    vertical-align: middle;
-    background-color: hsl(0, 0%, 100%);
+    background-color: rgba(33, 36, 228, 0.75);
     }
